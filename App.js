@@ -57,7 +57,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <LinearGradient
           colors={["#ff9a9e", "#fad0c4", "#fad0c4"]}
-          locations={[0.1, 0.9, 0.99]}
+          locations={[0.1, 0.98, 0.99]}
           style={{
             flex: 1,
             alignItems: "center",
