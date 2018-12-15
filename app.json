@@ -23,7 +23,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.ericwstout.ismercuryinretrograde"
     },
-    "andriod": {
+    "android": {
       "package": "com.ericwstout.ismercuryinretrograde",
       "versionCode": 1,
       "permissions": []
